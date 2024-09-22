@@ -1,3 +1,9 @@
 body{
     background-color: burlywood;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.img_git{
+    width: 40%;
 }

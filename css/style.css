@@ -7,3 +7,14 @@ body{
 .img_git{
     width: 40%;
 }
+
+.base{
+    font-family: "Montserrat", sans-serif;
+}
+
+.arrow-back{
+    transform: rotate(180deg);
+    width: 3%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
